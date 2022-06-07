@@ -66,15 +66,8 @@ section{
     text-transform: uppercase;
 
 }
-.mafioso img{
-    background-size: contain;
-    background-position: center;
-    height: 500px;
-    width: 250px;
-}
 
     
-
 body{
     background-image: url(./Fondo.png);
     margin: 0%;
