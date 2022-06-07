@@ -22,6 +22,11 @@ nav{
     margin: 0%;
 }
 
+img{
+    width: 100px;
+    height: 100px;
+}
+
 a{
     color: rgba(58, 131, 150, 0.993);
     text-decoration: none;
@@ -66,6 +71,11 @@ section{
     text-transform: uppercase;
 
 }
+.gif img{
+    width: 498px;
+    height: 280px;
+
+}
 
     
 body{
@@ -76,7 +86,3 @@ body{
 }
 
    
-.portada{
-    width: 100px;
-    height: 100px;
-}
