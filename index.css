@@ -47,12 +47,7 @@ section{
 .container-info{
     width: 50%;
 }
-.info img{
-    width: 60%;
-    background-size: contain;
-    background-position: center;
-    height: 200px;
-}
+
 .info p{
     font-size: 2em;
     font-family: "Lato";
