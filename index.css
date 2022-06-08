@@ -45,7 +45,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 100px;
 }
  
 .container-info{
@@ -69,11 +69,42 @@ section{
     font-size: 1.2em;
     text-transform: uppercase;
 
+
 }
+button:hover{
+    background-color: burlywood;
+
+}
+
 .gif img{
     width: 498px;
     height: 280px;
 
+}
+.section b{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.section b div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+.descrip h1{
+    color: rgb(211, 178, 146);
+    margin: 0 auto;
+    max-width: 120rem;
+    width: 70%;
+    font-size: 2em;
+    border-width: 50px;
+    border-style: double;
+    border-color: rgb(141, 119, 119);
 }
 
     
